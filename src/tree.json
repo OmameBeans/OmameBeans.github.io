@@ -1,0 +1,27 @@
+[
+  {
+    "type": "directory",
+    "name": "atcoder",
+    "path": "atcoder",
+    "children": [
+      {
+        "type": "file",
+        "name": "abc464.md",
+        "title": "abc464",
+        "path": "atcoder/abc464.md"
+      },
+      {
+        "type": "file",
+        "name": "index.md",
+        "title": "index",
+        "path": "atcoder/index.md"
+      }
+    ]
+  },
+  {
+    "type": "file",
+    "name": "index.md",
+    "title": "index",
+    "path": "index.md"
+  }
+]
